@@ -6,3 +6,4 @@
 - I watched some video lectures.
 - I'm in "Lesson 2: Architecture Consideration for Cloud Native Applications" - "2. Design Considerations for Cloud-Native Applications" (13% VIEWED)
 
+![images/Day001.png](images/Day001.png)
