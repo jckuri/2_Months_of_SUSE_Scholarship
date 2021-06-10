@@ -14,7 +14,7 @@
 
 ![images/Day002.png](images/Day002.png)
 
-# Day 2: Tuesday, June 8, 2021.
+# Day 3: Wednesday, June 9, 2021.
 - I tried to attend the `Program Orientation - Session #1`. But I could not enter due to the 500-user limit. :(
 - I managed to attend the `Program Orientation - Session #2`.
 - I asked a question for the `Program Orientation - Session #2` in the #ama_sesions channel. And Brenda selected my question.
