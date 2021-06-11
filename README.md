@@ -21,3 +21,11 @@
 
 ![images/Day003.png](images/Day003.png)
 ![images/Day003-2.jpeg](images/Day003-2.jpeg)
+
+# Day 4: Thursday, June 10, 2021.
+- I watched some video lectures.
+- I'm in "Lesson 2: Architecture Consideration for Cloud Native Applications" - "5. Trade-offs for Monoliths and Microservices" (16% VIEWED)
+- I managed to attend the `Slack Orientation`.
+
+![images/Day004.png](images/Day004.png)
+![images/Day004-2.png](images/Day004-2.png)
