@@ -29,3 +29,13 @@
 
 ![images/Day004.png](images/Day004.png)
 ![images/Day004-2.png](images/Day004-2.png)
+
+# Day 5: Friday, June 11, 2021.
+- I watched some video lectures.
+- I'm in "Lesson 2: Architecture Consideration for Cloud Native Applications" - "8. Solution: Monoliths and Microservices" (20% VIEWED)
+- I read the documentation to form and join Study Teams: https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/study-teams
+- I created my own Study Team called Ecuador, which will unite scholars from Ecuador and we will probably have physical meetings in addition to our virtual meetings.
+
+![images/Day005.png](images/Day005.png)
+![images/Day005-2.png](images/Day005-2.png)
+![images/Day005-3.png](images/Day005-3.png)
