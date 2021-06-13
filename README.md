@@ -39,3 +39,11 @@
 ![images/Day005.png](images/Day005.png)
 ![images/Day005-2.png](images/Day005-2.png)
 ![images/Day005-3.png](images/Day005-3.png)
+
+# Day 6: Saturday, June 12, 2021.
+- I watched some video lectures.
+- I completed Lesson 2 and I changed my badge to :milestone_1:
+- I'm in "Lesson 3: Container Orchestration with Kubernetes" - "1. Introduction" (30% VIEWED)
+
+![images/Day006.png](images/Day006.png)
+![images/Day006-2.png](images/Day006-2.png)
