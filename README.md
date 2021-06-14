@@ -50,4 +50,6 @@
 
 # Day 7: Sunday, June 13, 2021.
 - I watched some video lectures.
-- I'm in "Lesson 3: Container Orchestration with Kubernetes" - "1. Introduction" (30% VIEWED)
+- I'm in "Lesson 3: Container Orchestration with Kubernetes" - "3. Docker for Application Packaging" (32% VIEWED)
+
+![images/Day007.png](images/Day007.png)
