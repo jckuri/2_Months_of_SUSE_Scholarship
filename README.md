@@ -47,3 +47,7 @@
 
 ![images/Day006.png](images/Day006.png)
 ![images/Day006-2.png](images/Day006-2.png)
+
+# Day 7: Sunday, June 13, 2021.
+- I watched some video lectures.
+- I'm in "Lesson 3: Container Orchestration with Kubernetes" - "1. Introduction" (30% VIEWED)
