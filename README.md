@@ -53,3 +53,11 @@
 - I'm in "Lesson 3: Container Orchestration with Kubernetes" - "3. Docker for Application Packaging" (32% VIEWED)
 
 ![images/Day007.png](images/Day007.png)
+
+# Day 8: Monday, June 14, 2021.
+- **Yesterday:** I completed Lesson 2 and I changed my badge to :milestone_1:
+- **Today:** I read the official instructions for the Daily Scrum Challenge: https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/daily-scrum-challenge
+- **Today:** I filled the "Daily Scrum Challenge Sprint #1 - Commitment Form".
+- **Blockers:** I'm insanely busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
+
+![images/Day008.png](images/Day008.png)
