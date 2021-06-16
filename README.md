@@ -55,9 +55,17 @@
 ![images/Day007.png](images/Day007.png)
 
 # Day 8: Monday, June 14, 2021.
-- **Yesterday:** I completed Lesson 2 and I changed my badge to :milestone_1:
-- **Today:** I read the official instructions for the Daily Scrum Challenge: https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/daily-scrum-challenge
-- **Today:** I filled the "Daily Scrum Challenge Sprint #1 - Commitment Form".
-- **Blockers:** I'm insanely busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
+- Yesterday: I completed Lesson 2 and I changed my badge to :milestone_1:
+- Today: I read the official instructions for the Daily Scrum Challenge: https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/daily-scrum-challenge
+- Today: I filled the "Daily Scrum Challenge Sprint #1 - Commitment Form".
+- Blockers: I'm insanely busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
 
 ![images/Day008.png](images/Day008.png)
+
+# Day 9: Tuesday, June 15, 2021.
+- Yesterday: I read the official instructions for the Daily Scrum Challenge and I filled the "Daily Scrum Challenge Sprint #1 - Commitment Form".
+- Today: I watched some video lectures.
+- Today: I'm in "Lesson 3: Container Orchestration with Kubernetes" - "4. Docker Walkthrough" (33% VIEWED)
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
+
+![images/Day009.png](images/Day009.png)
