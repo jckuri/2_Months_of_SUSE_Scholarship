@@ -64,8 +64,10 @@
 
 # Day 9: Tuesday, June 15, 2021.
 - Yesterday: I read the official instructions for the Daily Scrum Challenge and I filled the "Daily Scrum Challenge Sprint #1 - Commitment Form".
+- I joined the study teams: #st_cloud_ai, #st_dotslash, #st_fintech, #st_ecuador 
 - Today: I watched some video lectures.
 - Today: I'm in "Lesson 3: Container Orchestration with Kubernetes" - "4. Docker Walkthrough" (33% VIEWED)
 - Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
 
 ![images/Day009.png](images/Day009.png)
+![images/Day009-2.png](images/Day009-2.png)
