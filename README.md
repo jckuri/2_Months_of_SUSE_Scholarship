@@ -83,3 +83,11 @@
 ![images/Day010.png](images/Day010.png)
 ![images/Day010-2.png](images/Day010-2.png)
 ![images/Day010-3.png](images/Day010-3.png)
+
+# Day 11: Thrusday, June 17, 2021.
+- Yesterday: I watched some video lectures. I organized a webinar on artificial intelligence with @Prabor.Mukherjee for the Study Team #st_cloud_ai
+- Today: I prepared the slides for our webinar in #st_cloud_ai about Deep Reinforcement Learning on this Sunday, June 20 at 10 AM (GMT-5) / 3 PM (GMT): http://bit.do/DeepRL3
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam 
+
+![images/Day011.png](images/Day011.png)
