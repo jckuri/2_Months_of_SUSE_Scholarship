@@ -105,6 +105,7 @@ Video call link: https://meet.google.com/psv-ispj-mfk
 Speaker: @Juan.Carlos.Kuri.Pinto
 Moderator: @Prabor.Mukherjee
 ```
+- I added the webinar to the official calendar: https://sites.google.com/udacity.com/suse-cloud-native-foundations/calendar
 - Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
 - Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam 
 
