@@ -110,3 +110,23 @@ Moderator: @Prabor.Mukherjee
 - Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam 
 
 ![images/Day012.png](images/Day012.png)
+
+# Day 13: Saturday, June 19, 2021.
+- Yesterday: @Prabor.Mukherjee and I tested the functionalities of Google Meet: Screen sharing, video call link, and video recording. And we added the webinar to the official calendar.
+- Today: I was reading the slides of our Deep RL webinar for tomorrow:
+```
+Webinar of the Study Team #st_cloud_ai 
+Topic: Deep Reinforcement Learning
+Date: Sunday, June 20, 2021
+Time: 10 AM (GMT-5) / 3 PM (GMT)
+Slides: http://bit.do/DeepRL3
+Video call link: https://meet.google.com/psv-ispj-mfk
+Speaker: @Juan.Carlos.Kuri.Pinto
+Moderator: @Prabor.Mukherjee
+```
+- Today: I watched some video lectures and completed some programming exercises.
+- Today: I'm in "Lesson 3: Container Orchestration with Kubernetes" - "8. Solution: Docker for Application Packaging" (38% VIEWED)
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam 
+
+![images/Day013.png](images/Day013.png)
