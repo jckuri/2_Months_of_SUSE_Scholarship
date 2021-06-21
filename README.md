@@ -136,3 +136,15 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 - Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam 
 
 ![images/Day013.png](images/Day013.png)
+
+# Day 14: Sunday, June 20, 2021.
+- Yesterday: I prepared the webinar of Deep RL. I watched some video lectures. I read some articles.
+- Today: We gave the webinar of Deep Reinforcement Learning: https://youtu.be/uzEdwfAYP60
+- Today: I filled the form of "Student Led Events/ Initiatives": https://sites.google.com/udacity.com/suse-cloud-native-foundations/community/student-led-initiativesevents
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam 
+
+![images/Day014.png](images/Day014.png)
+![images/Day014-2.png](images/Day014-2.png)
+
+# Day 15: Monday, June 21, 2021.
