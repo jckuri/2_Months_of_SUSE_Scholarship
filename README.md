@@ -148,3 +148,12 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 ![images/Day014-2.png](images/Day014-2.png)
 
 # Day 15: Monday, June 21, 2021.
+- Yesterday: I gave a webinar on Deep Reinforcement Learning. And I filled the form of "Student Led Events/ Initiatives".
+- Today: I watched some video lectures and completed some exercises.
+- Today: I'm in "Lesson 3: Container Orchestration with Kubernetes" - "11. Deploy Your First Kubernetes Cluster" (41% VIEWED)
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Sensor Fusion Nanodegree and Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam 
+
+![images/Day015.png](images/Day015.png)
+
+# Day 16: Tuesday, June 22, 2021.
