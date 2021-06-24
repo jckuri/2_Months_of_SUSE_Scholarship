@@ -165,3 +165,11 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 ![images/Day016.png](images/Day016.png)
 
 # Day 17: Wednesday, June 23, 2021.
+- Yesterday: I learned about K3s, a lightweight Kubernetes, in its website: https://k3s.io/
+- Today: I watched some video lectures and completed some exercises.
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP 
+
+![images/Day017.png](images/Day017.png)
+
+# Day 18: Thursday, June 24, 2021.
