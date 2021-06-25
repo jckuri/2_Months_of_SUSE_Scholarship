@@ -180,7 +180,7 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 - Today: I'm in "Lesson 3: Container Orchestration with Kubernetes" - "14. Exercise: Deploy Your First Kubernetes Cluster" (45% VIEWED)
 - Today: I interacted with some Ecuadorians in our Study Team #st_ecuador.
 - Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
-- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez 
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
 
 ![images/Day018.png](images/Day018.png)
 
