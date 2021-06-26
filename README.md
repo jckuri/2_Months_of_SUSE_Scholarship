@@ -194,6 +194,6 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 - Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
 
 ![images/Day019.png](images/Day019.png)
-![images/Day019-2.png](images/Day019-2.png)
+![images/Day019-1.png](images/Day019-1.png)
 
 # Day 20: Saturday, June 26, 2021.
