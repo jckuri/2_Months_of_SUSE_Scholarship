@@ -189,7 +189,7 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 - Yesterday: I watched some video lectures and completed some exercises. And I interacted with some Ecuadorians in our Study Team #st_ecuador.
 - Today: I watched some video lectures and completed some exercises.
 - Today: I'm in "Lesson 3: Container Orchestration with Kubernetes" - "15. Solution: Deploy Your First Kubernetes Cluster" (46% VIEWED)
-- Today: I'm trying to add my Webinar of Deep Reinforcement Learning to our Resources Airtable: https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ But I still don't know the tool.
+- Today: I'm trying to add my "Webinar of Deep Reinforcement Learning" https://youtu.be/uzEdwfAYP60 to our Resources Airtable: https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ But I still don't know the tool.
 - Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
 - Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
 
