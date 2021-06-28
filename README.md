@@ -207,3 +207,13 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 ![images/Day020.png](images/Day020.png)
 
 # Day 21: Sunday, June 27, 2021.
+
+- Yesterday: I watched some video lectures and completed some exercises.
+- Today: I did some experiments with Vagrant, K3s, and Docker Hub.
+- Blockers: My experiments failed miserably. :D I got a CreateContainerError and I don't know what to do next.
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
+
+![images/Day021.png](images/Day021.png)
+
+# Day 22: Monday, June 28, 2021.
