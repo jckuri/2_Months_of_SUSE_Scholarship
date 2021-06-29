@@ -217,3 +217,17 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 ![images/Day021.png](images/Day021.png)
 
 # Day 22: Monday, June 28, 2021.
+
+- Yesterday: I did some experiments with Vagrant, K3s, and Docker Hub. And my experiments failed miserably. :D 
+- Today: I watched some video lectures and completed some exercises.
+- Today: I'm in "Lesson 3: Container Orchestration with Kubernetes" - "23. Declarative Kubernetes Manifests" (55% VIEWED)
+- Today: @Carlota.Pearl helped me to submit my Webinar of Deep Reinforcement Learning <https://youtu.be/uzEdwfAYP60> to our Resources Airtable <https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ>
+- Today: @Frida helped me to overcome the blocker I had yesterday by suggesting me to use the command `zypper install -t pattern apparmor` after executing the commands `vagrant ssh` and `sudo su -`.
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
+
+![images/Day022.png](images/Day022.png)
+![images/Day022-2.png](images/Day022-2.png)
+![images/Day022-3.png](images/Day022-3.png)
+
+# Day 23: Tuesday, June 29, 2021.
