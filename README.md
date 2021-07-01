@@ -234,11 +234,25 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 
 - Yesterday: I watched some video lectures and completed some exercises.
 - Yesterday: I submitted my Webinar of Deep Reinforcement Learning <https://youtu.be/uzEdwfAYP60> to our Resources Airtable <https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ>
-- I filled the completion form for the Sprint #1 and I got my badge.
-- I submitted my story for the Student Stories Challenge.
+- Today: I filled the completion form for the Sprint #1 and I got my badge.
+- Today: I submitted my story for the Student Stories Challenge.
 - Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
 - Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
 
 ![images/Day023.png](images/Day023.png)
 ![images/Day023-2.png](images/Day023-2.png)
 ![images/Day023-3.png](images/Day023-3.png)
+
+# Day 24: Wednesday, June 30, 2021.
+
+- Yesterday: I filled the completion form for the Sprint #1 and I got my badge.
+- Yesterday: I submitted my story for the Student Stories Challenge.
+- Today: I finished Lesson 3: "Container Orchestration with Kubernetes".
+- Today: I finished Lesson 4: "Open Source PaaS" and I got my badge :milestone_2:
+- Today: I'm in "Lesson 5: CI/CD with Cloud Native Tooling" - "1. Introduction" (78% VIEWED)
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
+
+![images/Day024.png](images/Day024.png)
+
+# Day 25: Thursday, July 1, 2021.
