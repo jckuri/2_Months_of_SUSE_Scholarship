@@ -256,3 +256,16 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 ![images/Day024.png](images/Day024.png)
 
 # Day 25: Thursday, July 1, 2021.
+
+- Yesterday: I finished Lesson 3: "Container Orchestration with Kubernetes".
+- Yesterday: I finished Lesson 4: "Open Source PaaS" and I got my badge :milestone_2:
+- Today: I submitted the feedback survey of the SUSE Scholarship program.
+- Today: I watched some video lectures and completed some exercises.
+- Today: I'm in "Lesson 5: CI/CD with Cloud Native Tooling" - "7. Exercise: The CI Fundamentals" (85% VIEWED)
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
+
+![images/Day025.png](images/Day025.png)
+![images/Day025-2.png](images/Day025-2.png)
+
+# Day 26: Friday, July 2, 2021.
