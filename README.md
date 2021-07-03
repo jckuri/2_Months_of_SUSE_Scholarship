@@ -270,6 +270,11 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 
 # Day 26: Friday, July 2, 2021.
 
+- Yesterday: I submitted the feedback survey of the SUSE Scholarship program.
+- Yesterday: I watched some video lectures and completed some exercises.
+- Today: I watched some video lectures and completed some exercises.
+- Today: I reported this error in the content of the "Cloud Native Fundamentals Scholarship Program"
+"Lesson 5: CI/CD with Cloud Native Tooling" - "7. Exercise: The CI Fundamentals"
 ```
 Remove the root slash / in this command:
 mkdir -p /.github/workflows
@@ -277,3 +282,10 @@ It should be:
 mkdir -p .github/workflows
 (without the root slash /)
 ```
+- Today: I'm in "Lesson 5: CI/CD with Cloud Native Tooling" - "10. ArgoCD Walkthrough" (88% VIEWED)
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
+
+![images/Day026.png](images/Day026.png)
+
+# Day 27: Saturday, July 3, 2021.
