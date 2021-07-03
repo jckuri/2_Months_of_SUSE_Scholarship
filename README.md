@@ -269,3 +269,11 @@ https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current
 ![images/Day025-2.png](images/Day025-2.png)
 
 # Day 26: Friday, July 2, 2021.
+
+```
+Remove the root slash / in this command:
+mkdir -p /.github/workflows
+It should be:
+mkdir -p .github/workflows
+(without the root slash /)
+```
