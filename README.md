@@ -289,3 +289,13 @@ mkdir -p .github/workflows
 ![images/Day026.png](images/Day026.png)
 
 # Day 27: Saturday, July 3, 2021.
+
+- Yesterday: I watched some video lectures and completed some exercises.
+- Yesterday: I reported an error in the content of the "Cloud Native Fundamentals Scholarship Program" in "Lesson 5: CI/CD with Cloud Native Tooling" - "7. Exercise: The CI Fundamentals".
+- Today: I'm following the ArgoCD Walkthrough, which is slightly complicated.
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
+
+![images/Day027.png](images/Day027.png)
+
+# Day 28: Sunday, July 4, 2021.
