@@ -300,6 +300,11 @@ mkdir -p .github/workflows
 
 # Day 28: Sunday, July 4, 2021.
 
+- Yesterday: I'm following the ArgoCD Walkthrough, which is slightly complicated.
+- Today: Throughout the whole day, I've been configuring and testing nvidia-docker: <https://github.com/NVIDIA/nvidia-docker>. And I ran this programming experiment on nvidia-docker: <https://medium.com/vicuesoft-techblog/how-to-use-nvidia-gpu-in-docker-to-run-tensorflow-9cf5ee279319>
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
+
 ![images/Day028.png](images/Day028.png)
 
 # Day 29: Monday, July 5, 2021.
