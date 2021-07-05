@@ -299,3 +299,7 @@ mkdir -p .github/workflows
 ![images/Day027.png](images/Day027.png)
 
 # Day 28: Sunday, July 4, 2021.
+
+![images/Day028.png](images/Day028.png)
+
+# Day 29: Monday, July 5, 2021.
