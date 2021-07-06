@@ -308,3 +308,14 @@ mkdir -p .github/workflows
 ![images/Day028.png](images/Day028.png)
 
 # Day 29: Monday, July 5, 2021.
+
+- Yesterday: I configured and tested nvidia-docker: <https://github.com/NVIDIA/nvidia-docker>. And I ran this programming experiment on nvidia-docker: <https://medium.com/vicuesoft-techblog/how-to-use-nvidia-gpu-in-docker-to-run-tensorflow-9cf5ee279319>
+- Today: I watched some video lectures and completed some exercises.
+- Today: I completed the ArgoCD Walkthrough in my computer, which was slightly complicated.
+- Today: I'm in "Lesson 5: CI/CD with Cloud Native Tooling" - "14. Configuration Managers" (93% VIEWED)
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida 
+
+![images/Day029.png](images/Day029.png)
+
+# Day 30: Tuesday, July 6, 2021.
