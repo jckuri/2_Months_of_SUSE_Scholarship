@@ -321,3 +321,15 @@ mkdir -p .github/workflows
 ![images/Day029-2.png](images/Day029-2.png)
 
 # Day 30: Tuesday, July 6, 2021.
+
+- Yesterday: I watched some video lectures and completed some exercises.
+- Yesterday: I completed the ArgoCD Walkthrough in my computer, which was slightly complicated.
+- Yesterday: I filled the form for the Sprint #2.
+- Today: I watched some video lectures and completed some exercises.
+- Today: I'm in "Lesson 5: CI/CD with Cloud Native Tooling" - "15. Helm Walkthrough" (94% VIEWED)
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett
+
+![images/Day030.png](images/Day030.png)
+
+# Day 31: Wednesday, July 7, 2021.
