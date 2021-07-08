@@ -333,3 +333,17 @@ mkdir -p .github/workflows
 ![images/Day030.png](images/Day030.png)
 
 # Day 31: Wednesday, July 7, 2021.
+
+- Yesterday: I watched some video lectures and completed some exercises.
+- Today: I watched some video lectures and completed some exercises.
+- Today: I finished watching all the video lectures and exercises, in other words, 100% VIEWED.
+- Today: I verified if I actually completed all the exercises. And I noticed I missed one exercise. But I immediately completed it.
+- Today: I got my badge for the third milestone: :milestone_3: :milestone_2: :sprint1_badge: :milestone_1:
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett
+
+![images/Day031.png](images/Day031.png)
+![images/Day031-2.png](images/Day031-2.png)
+
+# Day 32: Thursday, July 8, 2021.
+
