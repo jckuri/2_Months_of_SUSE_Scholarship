@@ -356,7 +356,7 @@ mkdir -p .github/workflows
 <https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#InstanceTypeDetails:instanceType=g4dn.xlarge>. Because I need to train a big convolutional neural network for this object detection project: <https://youtu.be/MfV_ATv9mlk>
 - Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
 - Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas 
-- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time I will engage in activities related to the Cloud and Kubernetes.
+- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
 
 ![images/Day032.png](images/Day032.png)
 ![images/Day032-2.png](images/Day032-2.png)
