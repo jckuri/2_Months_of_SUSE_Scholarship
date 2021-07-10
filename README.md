@@ -362,3 +362,16 @@ mkdir -p .github/workflows
 ![images/Day032-2.png](images/Day032-2.png)
 
 # Day 33: Friday, July 9, 2021.
+
+- Yesterday: I was programming the Project "Deploy An Article CMS To Azure" of the "Cloud Developer using Microsoft Azure" nanodegree: <https://github.com/udacity/nd081-c1-provisioning-microsoft-azure-vms-project-starter> And I rented Azure services to do the project.
+- Yesterday: I rented an AWS instance g4dn.xlarge with 1 NVIDIA T4 GPU and 16 Gb GPU memory ($0.63 per hour)
+<https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#InstanceTypeDetails:instanceType=g4dn.xlarge>. Because I need to train a big convolutional neural network for this object detection project: <https://youtu.be/MfV_ATv9mlk>
+- Today: I watched some video lectures and do some exercises in the "Cloud Developer using Microsoft Azure" nanodegree.
+- Today: My current progress is "3. Azure Microservices", "Lesson 2: Serverless Functions", "1. Lesson Introduction" (23% VIEWED). 
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas 
+- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
+
+![images/Day033.png](images/Day033.png)
+
+# Day 34: Saturday, July 10, 2021.
