@@ -400,7 +400,7 @@ mkdir -p .github/workflows
 
 # Day 36: Monday, July 12, 2021.
 
-- Today: I've been programming the project "Build an ML Pipeline for Short-Term Rental Prices in NYC".
+- Yesterday: I've been programming the project "Build an ML Pipeline for Short-Term Rental Prices in NYC".
 - Today: I'm programming the project "Build an ML Pipeline for Short-Term Rental Prices in NYC" <https://github.com/udacity/nd0821-c2-build-model-workflow-starter> of the Machine Learning DevOps Engineer nanodegree, which is deployed in the Cloud through the website Weights & Biases: <https://wandb.ai/site>
 - Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
 - Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas @Danilo.Britto.Scholar @Oudarjya @nancy.alaswad
@@ -409,3 +409,14 @@ mkdir -p .github/workflows
 ![images/Day036.png](images/Day036.png)
 
 # Day 37: Tuesday, July 13, 2021.
+
+- Yesterday: I've been programming the project "Build an ML Pipeline for Short-Term Rental Prices in NYC".
+- Today: I'm programming the project "Build an ML Pipeline for Short-Term Rental Prices in NYC" <https://github.com/udacity/nd0821-c2-build-model-workflow-starter> of the Machine Learning DevOps Engineer nanodegree, which is deployed in the Cloud through the website Weights & Biases: <https://wandb.ai/site>
+- Today: We, @susyjam and I, are organizing a webinar called "Deep Reinforcement Learning (en Español)" in the Study Team #st_spanish. The tentative date is Saturday, July 17, 2021 (17:00 GMT-4). Here are the slides: http://bit.do/DeepRL3 
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the nanodegrees Machine Learning DevOps Engineer and Self-Driving Car Engineer.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas @Danilo.Britto.Scholar @Oudarjya @nancy.alaswad
+- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
+
+![images/Day037.png](images/Day037.png)
+
+# Day 38: Wednesday, July 14, 2021.
