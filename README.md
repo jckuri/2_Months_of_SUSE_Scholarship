@@ -445,4 +445,16 @@ mkdir -p .github/workflows
 ![images/Day039.png](images/Day039.png)
 ![images/Day039-2.png](images/Day039-2.png)
 
-# Day 40: Friday, July 16, 2021.
+# Day 40: Friday, July 16, 2021. [Sprint #2]
+
+- Yesterday: I completed all the 4 certification opportunities of the Machine Learning DevOps Engineer Nanodegree and I graduated.
+- Yesterday: We were organizing a webinar called "Deep Reinforcement Learning (en Español)" in the Study Team #st_spanish.
+- Today: I'm still training the neural network of my object detection project in an AWS instance g4dn.xlarge: https://youtu.be/MfV_ATv9mlk
+- Today: We, @susyjam and I, are organizing a webinar called "Deep Reinforcement Learning (en Español)" in the Study Team #st_spanish. The tentative date is Saturday, July 17, 2021 (17:00 GMT-4). Here are the slides: http://bit.do/DeepRL3 And here is the meeting link: https://meet.google.com/psv-ispj-mfk
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas @Danilo.Britto.Scholar @Oudarjya @nancy.alaswad @Prnika.Bakshi 
+- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
+
+![images/Day040.png](images/Day040.png)
+
+# Day 41: Saturday, July 17, 2021. [Sprint #2]
