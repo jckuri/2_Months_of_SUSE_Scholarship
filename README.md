@@ -458,3 +458,15 @@ mkdir -p .github/workflows
 ![images/Day040.png](images/Day040.png)
 
 # Day 41: Saturday, July 17, 2021. [Sprint #2]
+
+- Yesterday: I was training the neural network of my object detection project in an AWS instance g4dn.xlarge: https://youtu.be/MfV_ATv9mlk
+- Yesterday: We were organizing a webinar called "Deep Reinforcement Learning (en Español)" in the Study Team #st_spanish.
+- Today: I gave the webinar "Deep Reinforcement Learning (en Español)" in the Study Team #st_spanish. Here is the link of the recorded webinar which lasted almost 3 hours: https://youtu.be/guNyXfbPrvg?t=1600
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas @Danilo.Britto.Scholar @Oudarjya @nancy.alaswad @Prnika.Bakshi 
+- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
+
+![images/Day041.png](images/Day041.png)
+![images/Day041-2.png](images/Day041-2.png)
+
+# Day 42: Sunday, July 18, 2021. [Sprint #2]
