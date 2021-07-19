@@ -470,3 +470,16 @@ mkdir -p .github/workflows
 ![images/Day041-2.png](images/Day041-2.png)
 
 # Day 42: Sunday, July 18, 2021. [Sprint #2]
+
+- Yesterday: I gave the webinar "Deep Reinforcement Learning (en Español)" in the Study Team #st_spanish. Here is the link of the recorded webinar which lasted almost 3 hours: https://youtu.be/guNyXfbPrvg?t=1600
+- Today: I filled the "Event/Initiative Completion Form" for the "Webinar de Deep Reinforcement Learning en Español".
+- Today: I submitted the "Webinar de Deep Reinforcement Learning en Español" <https://youtu.be/guNyXfbPrvg?t=1600> to the Resources Airtable.
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas @Danilo.Britto.Scholar @Oudarjya @nancy.alaswad @Prnika.Bakshi 
+- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
+
+![images/Day042.png](images/Day042.png)
+![images/Day042-2.png](images/Day042-2.png)
+![images/Day042-3.png](images/Day042-3.png)
+
+# Day 43: Monday, July 19, 2021. [Sprint #2]
