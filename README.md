@@ -483,3 +483,15 @@ mkdir -p .github/workflows
 ![images/Day042-3.png](images/Day042-3.png)
 
 # Day 43: Monday, July 19, 2021. [Sprint #2]
+
+- Yesterday: I filled the "Event/Initiative Completion Form" for the "Webinar de Deep Reinforcement Learning en Español".
+- Yesterday: I submitted the "Webinar de Deep Reinforcement Learning en Español" <https://youtu.be/guNyXfbPrvg?t=1600> to the Resources Airtable.
+- Today: I watched some video lectures and do some exercises of the Cloud Developer using Microsoft Azure Nanodegree.
+- Today: My current progress is "3. Azure Microservices", "Lesson 2: Serverless Functions", "3. Creating Azure Functions using Azure Portal". (25% VIEWED). 
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas @Danilo.Britto.Scholar @Oudarjya @nancy.alaswad @Prnika.Bakshi 
+- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
+
+![images/Day043.png](images/Day043.png)
+
+# Day 44: Tuesday, July 20, 2021. [Sprint #2]
