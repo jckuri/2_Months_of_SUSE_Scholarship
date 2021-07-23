@@ -538,6 +538,7 @@ mkdir -p .github/workflows
 - Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas @Danilo.Britto.Scholar @Oudarjya @nancy.alaswad @Prnika.Bakshi 
 - **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
 
-![images/Day046.png](images/Day046.png)
+![images/Day047.png](images/Day047.png)
+![images/Day047-2.png](images/Day047-2.png)
 
 # Day 48: Saturday, July 24, 2021. [Sprint #2]
