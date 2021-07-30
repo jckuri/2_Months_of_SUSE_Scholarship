@@ -601,3 +601,16 @@ mkdir -p .github/workflows
 
 
 # Day 53: Thursday, July 29, 2021. [Sprint #2]
+
+- Yesterday: I watched some video lectures and did some exercises of the **Cloud Developer using Microsoft Azure Nanodegree.**
+- Yesterday: I got my badge for completing the course: :course_complete:
+- Today: I attended the End of Program Party: [Recording](https://udacity.zoom.us/rec/play/TGQM6lB5FPcOgQ2D0Khfb03Mo5qDNXudvRhrUdV1saiYZOMhKLFFdT-UrwA4eA25TN-US57pOpDhncLq.ABMSJTyehVhrOA5r?continueMode=true&_x_zm_rtaid=n_2iIcanQbqxe-Us8skyaQ.1627587859161.1ef6cf2fc6e268cb8097dc19a24f16fb&_x_zm_rhtaid=238)
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas @Danilo.Britto.Scholar @Oudarjya @nancy.alaswad @Prnika.Bakshi 
+- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
+
+![images/Day053.jpeg](images/Day053.jpeg)
+![images/Day053-2.jpeg](images/Day053-2.jpeg)
+
+
+# Day 54: Friday, July 30, 2021. [Sprint #2]
