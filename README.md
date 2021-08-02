@@ -639,4 +639,16 @@ mkdir -p .github/workflows
 
 # Day 56: Sunday, August 1, 2021. [Sprint #2]
 
+- Yesterday: I watched some video lectures and did some exercises of the **Cloud Developer using Microsoft Azure Nanodegree.**
+- Today: I watched some video lectures and did some exercises of the **Cloud Developer using Microsoft Azure Nanodegree.**
+- Today: My current progress is "3. Azure Microservices", "Lesson 3: Enterprise Logic Apps and Event Grid", "2. Logic Apps". (47% VIEWED). 
+- Today: I got my certification to mentor the project "Motion Planning and Decision Making for Autonomous Vehicles" of the "Self-Driving Car Engineer Nanodegree".
+- Blockers: I'm very busy with my work as a Udacity mentor, trying to finish many certifications opportunities of the Self-Driving Car Engineer Nanodegree.
+- Encouraging: @Carlota.Pearl @Katherine @Manuel.T @Camila.Andrea.Gonzalez.Williamson @KaustubhaShravan @Manasvi.Trivedi @Prabor.Mukherjee @susyjam @AndyP @Jorge.Barrera @Ivan @MartinaF. @Jose.Vera @Juan.Carlos.Jimenez @Frida @Claudia.Everett @Patricio.Rojas @Danilo.Britto.Scholar @Oudarjya @nancy.alaswad @Prnika.Bakshi 
+- **NOTE:** In July 7, I completed all the exercises and video lectures. So, in the remaining time, I will do some activities related to the Cloud and Kubernetes.
+
+![images/Day056.png](images/Day056.png)
+![images/Day056-2.png](images/Day056-2.png)
+
+
 # Day 57: Monday, August 2, 2021. [Sprint #2]
